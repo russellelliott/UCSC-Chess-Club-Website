@@ -4,10 +4,14 @@ import {Route, NavLink, BrowserRouter, Routes} from "react-router-dom";
 
 import Home from "./components/Home/Home";
 
+//chess.com badge
+import Badge from "./components/Badge/Badge"
+
 function App() {
   return (
     <BrowserRouter>
       <h1>UCSC Chess Club</h1>
+      <Badge/>
       <ul className="navigation">
         <li><NavLink exact="true" to="/">Home</NavLink></li>
         <li><NavLink to="/tech">Tech</NavLink></li>
