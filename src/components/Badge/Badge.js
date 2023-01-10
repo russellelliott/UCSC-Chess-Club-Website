@@ -6,7 +6,7 @@ export default function Circle(props) {
     //const [isHovered, setHover] = React.useState(false)
     return (
         <div>
-            <div>
+            <div className="container">
             <div>
                 <img src={badge} className="badge" alt=""/>
             </div>

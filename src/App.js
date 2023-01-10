@@ -10,7 +10,9 @@ import Badge from "./components/Badge/Badge"
 function App() {
   return (
     <BrowserRouter>
-      <h1>UCSC Chess Club</h1>
+      <div>
+        <h1>UCSC Chess Club</h1>
+      </div>
       <Badge/>
       <ul className="navigation">
         <li><NavLink exact="true" to="/">Home</NavLink></li>
