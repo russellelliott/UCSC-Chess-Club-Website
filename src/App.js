@@ -17,7 +17,6 @@ import "./components/Badge/Badge.css"
 //URLS
 var discordLink = "https://discord.com/invite/hgU4WFje6Y"
 var chessPage = "https://www.chess.com/club/chess-club-at-university-of-california-santa-cruz"
-var mchenrymap = "https://goo.gl/maps/RoCpDooDvBAZfWme9"
 
 function App() {
   return (
