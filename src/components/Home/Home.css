@@ -1,12 +1,13 @@
 .circletag{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     padding: 40px;
     border-radius: 50%;
     background-color: #fff;
-    line-height: 200px;
+    line-height: 100px;
     text-align: center;
-    margin:50px;
+    margin-right:200px;
+    margin-left:-150px;
     display: inline-block;
     vertical-align:top;
 } 
