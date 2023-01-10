@@ -28,3 +28,7 @@ ul.navigation li a {
 .active {
   background-color: royalblue;
 }
+
+#root{
+  width:100%;
+}
