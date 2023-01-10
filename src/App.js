@@ -3,6 +3,7 @@ import "./App.css";
 import {Route, NavLink, BrowserRouter, Routes} from "react-router-dom";
 
 import Home from "./components/Home/Home";
+import Chesscom from "./components/Chesscom/Chesscom";
 
 import Circle from "./components/Home/Circle"
 
@@ -28,7 +29,7 @@ function App() {
       <div className = "container">
         <Circle image = {discord} link = {discordLink} alt = "Discord Invite"/>
         <Circle image = {chess} link = {chessPage} alt = "Chess.com Club Page"/>
-        <Circle image = {ambassador} link = {chessPage} alt = "Chess.com Club Page"/>
+        <Circle image = {ambassador} link = {"./chesscom"} alt = "Chess.com Club Page"/>
       </div>
       <ul className="navigation">
         <li><NavLink exact="true" to="/">Home</NavLink></li>
@@ -40,6 +41,7 @@ function App() {
           <Route exact="true" path="/" element={<Home/>}/>
           <Route path="/tech" element={<Home/>}/>
           <Route path="/help" element={<Home/>}/>
+          <Route path="/chesscom" element={<Chesscom/>}/>
         </Routes>
       </div>
     </BrowserRouter>
