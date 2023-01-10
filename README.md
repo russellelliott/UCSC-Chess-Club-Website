@@ -21,15 +21,12 @@ Expanding image: [https://github.com/russellelliott/russellelliott.github.io/blo
 
 Discord Image: [https://discord.com/branding](https://discord.com/branding)
 
-Circle Component
-CSS: [https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss](https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss)
+### Circle Component
+- CSS: [https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss](https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss)
+- JS: [https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.tsx](https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.tsx)
 
-JS: [https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.tsx](https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.tsx)
+Center Image in Div CSS: [https://stackoverflow.com/questions/8473443/center-an-image-in-a-css-circle](https://stackoverflow.com/questions/8473443/center-an-image-in-a-css-circle)
 
-Center Image in Div CSS
-[https://stackoverflow.com/questions/8473443/center-an-image-in-a-css-circle](https://stackoverflow.com/questions/8473443/center-an-image-in-a-css-circle)
-
-Put divs next to each other
-[https://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other](https://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other)
+Put divs next to each other: [https://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other](https://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other)
 
 Div enlarge when hovering: [https://github.com/russellelliott/russellelliott.github.io/blob/main/cosmic-math/rotation/index.html](https://github.com/russellelliott/russellelliott.github.io/blob/main/cosmic-math/rotation/index.html)
