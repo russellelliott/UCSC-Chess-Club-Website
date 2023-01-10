@@ -20,6 +20,7 @@ Navbar CSS from CSE186 Sample Code 8: SPA React. Active page highlighted; each l
 Expanding image: [https://github.com/russellelliott/russellelliott.github.io/blob/main/cosmic-math/rotation/index.html](https://github.com/russellelliott/russellelliott.github.io/blob/main/cosmic-math/rotation/index.html)
 
 Discord Image: [https://discord.com/branding](https://discord.com/branding)
+Chess.com images: [https://www.chess.com/article/view/chess-com-brand-resources](https://www.chess.com/article/view/chess-com-brand-resources)
 
 ### Circle Component
 - CSS: [https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss](https://github.com/CruzHacks/cruzhacks-2022-website/blob/development/src/views/Home/components/PrizeTracks/PrizeTracks.scss)
