@@ -9,9 +9,10 @@ import Circle from "./components/Home/Circle"
 //images
 import discord from "./images/discord.png"
 import chess from "./images/chess.png"
+import ambassador from "./images/ambassador.png"
 
 //chess.com badge
-import Badge from "./components/Badge/Badge"
+//import Badge from "./components/Badge/Badge"
 
 import "./components/Badge/Badge.css"
 //URLS
@@ -27,7 +28,7 @@ function App() {
       <div className = "container">
         <Circle image = {discord} link = {discordLink} alt = "Discord Invite"/>
         <Circle image = {chess} link = {chessPage} alt = "Chess.com Club Page"/>
-        <Badge/>
+        <Circle image = {ambassador} link = {chessPage} alt = "Chess.com Club Page"/>
       </div>
       <ul className="navigation">
         <li><NavLink exact="true" to="/">Home</NavLink></li>
